@@ -10,7 +10,7 @@ class DataController
     private $dbSet;
     public function test()
     {
-        // Create connection
+        // Create connection test
         $conn = mysqli_connect("localhost", "payeshir_patogh", "4hkrAMctO7475IjU", "payeshir_patogh");
         // Check connection
         if (!$conn) {
