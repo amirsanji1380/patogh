@@ -19,7 +19,7 @@
     "devextreme-vue": "19.2.5",
     "jquery": "^3.5.0",
     "moment-jalaali": "^0.9.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.1",
     "whatwg-fetch": "^3.0.0"
